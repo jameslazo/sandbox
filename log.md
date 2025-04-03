@@ -1,11 +1,20 @@
+# 2025-04-03
+## Projects
+- Revamp website
+
+## Resources
+
 # 2025-04-02
 ## Projects
 - Revamp website
 
 ## Resources
+- [Install APK](https://www.baeldung.com/linux/apk-alpine-install)
 - [Hugo static website example](https://learn.microsoft.com/en-us/azure/static-web-apps/publish-hugo)
 - [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
   - How was I not aware of Git submodules before?!
+  - `git submodule add <url>`
+  - `git submodule update --init --recursive`
 - [Cloudflare Deploy MkDocs](https://developers.cloudflare.com/pages/framework-guides/deploy-an-mkdocs-site/)
 
 # 2025-04-01
