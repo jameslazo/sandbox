@@ -1,3 +1,26 @@
+# 2025-04-18
+## Projects
+- AnythingLLM
+- MCP w/AnythingLLM
+
+## Resources
+- [Use MCP in AnythingLLM](https://docs.anythingllm.com/mcp-compatibility/overview)
+- [Write to host](https://docs.anythingllm.com/mcp-compatibility/docker)
+  - Configure PVC for persistence
+- [Grafana MCP](https://github.com/grafana/mcp-grafana)
+
+# 2025-04-09
+## Projects
+- Update website
+  - Update submodules with the following commands:
+    - `git submodule update --remote`
+    - `git add <submodule-path>`
+    - `git commit -m "chore: updated submodule"`
+    - `git push`
+- K8s homelab
+
+## Resources
+
 # 2025-04-03
 ## Projects
 - Revamp website

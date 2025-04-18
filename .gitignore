@@ -1,9 +1,12 @@
 #\\\\\\\\\\\\#
 #\GIT\IGNORE\#
 #\\\\\\\\\\\\#
-*
-!*/
+*.bak
+*~
+.terraform/*
+backend.tf
+*.tfstate
+.venv/*
+.npm/*
+.cache/*
 
-!.gitignore
-!*.md
-!hugo/*

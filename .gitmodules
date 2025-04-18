@@ -1,3 +1,7 @@
 [submodule "hugo"]
 	path = hugo
 	url = git@github.com:gohugoio/hugo
+[submodule "hugo-jameslazo.com"]
+	path = hugo-jameslazo.com
+	url = git@github.com:jameslazo/hugo-jameslazo.com
+	branch = main
