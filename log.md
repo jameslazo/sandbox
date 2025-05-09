@@ -1,3 +1,10 @@
+# 2025-05-08
+## Projects
+- Rancher HA deployment for KubeCraft multi-tenant cluster management
+
+## Resources
+- [Rancher on prem wth k3s](https://medium.com/@saadullahkhanwarsi/title-setting-up-an-on-premise-k3s-cluster-with-rancher-helm-and-hyper-v-manager-cc888edb178c)
+
 # 2025-04-18
 ## Projects
 - AnythingLLM

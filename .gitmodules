@@ -5,3 +5,6 @@
 	path = hugo-jameslazo.com
 	url = git@github.com:jameslazo/hugo-jameslazo.com
 	branch = main
+[submodule "awesome-mcp-clients"]
+	path = awesome-mcp-clients
+	url = git@github.com:jameslazo/awesome-mcp-clients
